@@ -1,7 +1,3 @@
-
-
-
-
 @echo off
 setlocal enabledelayedexpansion
 
