@@ -1,5 +1,3 @@
-# from config.XdepricatedX import *
-
 __validation_file_path = ""
 
 def check_int(var: int, var_name: str, min_value: int=0) -> bool | TypeError | ValueError:
